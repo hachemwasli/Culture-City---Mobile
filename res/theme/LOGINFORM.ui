@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="LOGINFORM" cloudDestinationProperty="LOGINFORM" uiid="FormLOGIN" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <layoutConstraint value="Center" />
+    <component type="Label" name="image" cloudDestinationProperty="Label" uiid="Label" text="" icon="images.png" >
+    </component>
+    <component type="Label" name="nuL" cloudDestinationProperty="nuL" text="Nom d'utilisateur :" >
+    </component>
+    <component type="TextField" name="nU" cloudBoundProperty="text" cloudDestinationProperty="nU" text="" hint="Nom d'utilisateur" >
+    </component>
+    <component type="Label" name="mdpL" cloudDestinationProperty="mdpL" text="Mot de passe :" >
+    </component>
+    <component type="TextField" name="mdp" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" hint="Mot de passe" >
+    </component>
+    <component type="Button" name="login" cloudDestinationProperty="login" text="" icon="240_F_29501031_A1SyvSdiJVYy5mBXBxfdk0GHvfaH7ev8.jpg" >
+    </component>
+    <component type="Button" name="inscri" cloudDestinationProperty="inscri" text="" icon="inscription-1024x299.jpg" >
+    </component>
+  </component>
+</component>

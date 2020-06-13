@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="10" useXmlUI="false">
+    <image name="240_F_29501031_A1SyvSdiJVYy5mBXBxfdk0GHvfaH7ev8.jpg"  />
+    <image name="56980781_1317135148440085_1622844905938223104_n.jpg"  />
+    <image name="60870190_1230241657141487_2157340950131638272_n.png"  />
+    <image name="back-command.png" type="multi"  />
+    <image name="back.png"  />
+    <image name="BackgroundRect.png"  />
+    <image name="border.png"  />
+    <image name="borderBottom_1.png" type="multi"  />
+    <image name="borderBottomL_1.png" type="multi"  />
+    <image name="borderBottomR_1.png" type="multi"  />
+    <image name="borderCenter_1.png" type="multi"  />
+    <image name="borderLeft_1.png" type="multi"  />
+    <image name="borderRight_1.png" type="multi"  />
+    <image name="borderTop_1.png" type="multi"  />
+    <image name="borderTopL_1.png" type="multi"  />
+    <image name="borderTopR_1.png" type="multi"  />
+    <image name="Button.dis#borderBottom_1.png" type="multi"  />
+    <image name="Button.dis#borderBottomL_1.png" type="multi"  />
+    <image name="Button.dis#borderBottomR_1.png" type="multi"  />
+    <image name="Button.dis#borderCenter_1.png" type="multi"  />
+    <image name="Button.dis#borderLeft_1.png" type="multi"  />
+    <image name="Button.dis#borderRight_1.png" type="multi"  />
+    <image name="Button.dis#borderTop_1.png" type="multi"  />
+    <image name="Button.dis#borderTopL_1.png" type="multi"  />
+    <image name="Button.dis#borderTopR_1.png" type="multi"  />
+    <image name="ButtonLog.borderBottom_1.png" type="multi"  />
+    <image name="ButtonLog.borderBottom_2.png" type="multi"  />
+    <image name="ButtonLog.borderBottom_3.png" type="multi"  />
+    <image name="ButtonLog.borderBottomL_1.png" type="multi"  />
+    <image name="ButtonLog.borderBottomL_2.png" type="multi"  />
+    <image name="ButtonLog.borderBottomL_3.png" type="multi"  />
+    <image name="ButtonLog.borderBottomR_1.png" type="multi"  />
+    <image name="ButtonLog.borderBottomR_2.png" type="multi"  />
+    <image name="ButtonLog.borderBottomR_3.png" type="multi"  />
+    <image name="ButtonLog.borderCenter_1.png" type="multi"  />
+    <image name="ButtonLog.borderCenter_2.png" type="multi"  />
+    <image name="ButtonLog.borderCenter_3.png" type="multi"  />
+    <image name="ButtonLog.borderLeft_1.png" type="multi"  />
+    <image name="ButtonLog.borderLeft_2.png" type="multi"  />
+    <image name="ButtonLog.borderLeft_3.png" type="multi"  />
+    <image name="ButtonLog.borderRight_1.png" type="multi"  />
+    <image name="ButtonLog.borderRight_2.png" type="multi"  />
+    <image name="ButtonLog.borderRight_3.png" type="multi"  />
+    <image name="ButtonLog.borderTop_1.png" type="multi"  />
+    <image name="ButtonLog.borderTop_2.png" type="multi"  />
+    <image name="ButtonLog.borderTop_3.png" type="multi"  />
+    <image name="ButtonLog.borderTopL_1.png" type="multi"  />
+    <image name="ButtonLog.borderTopL_2.png" type="multi"  />
+    <image name="ButtonLog.borderTopL_3.png" type="multi"  />
+    <image name="ButtonLog.borderTopR_1.png" type="multi"  />
+    <image name="ButtonLog.borderTopR_2.png" type="multi"  />
+    <image name="ButtonLog.borderTopR_3.png" type="multi"  />
+    <image name="cal_left_arrow.png" type="multi"  />
+    <image name="cal_right_arrow.png" type="multi"  />
+    <image name="chbox1.png" type="multi"  />
+    <image name="chboxv1.png" type="multi"  />
+    <image name="Cit-de-la-culture.png"  />
+    <image name="Cit-de-la-culture3.png"  />
+    <image name="cit&#xe9;.jpg"  />
+    <image name="ComboBox.borderBottom_1.png" type="multi"  />
+    <image name="ComboBox.borderBottomL_1.png" type="multi"  />
+    <image name="ComboBox.borderBottomR_1.png" type="multi"  />
+    <image name="ComboBox.borderCenter_1.png" type="multi"  />
+    <image name="ComboBox.borderLeft_1.png" type="multi"  />
+    <image name="ComboBox.borderRight_1.png" type="multi"  />
+    <image name="ComboBox.borderTop_1.png" type="multi"  />
+    <image name="ComboBox.borderTopL_1.png" type="multi"  />
+    <image name="ComboBox.borderTopR_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderBottom_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderBottomL_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderBottomR_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderCenter_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderLeft_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderRight_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderTop_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderTopL_1.png" type="multi"  />
+    <image name="ComboBox.sel#borderTopR_1.png" type="multi"  />
+    <image name="culureccn.jpg"  />
+    <image name="delete.png"  />
+    <image name="Dialog.borderBottom_1.png" type="multi"  />
+    <image name="Dialog.borderBottomL_1.png" type="multi"  />
+    <image name="Dialog.borderBottomR_1.png" type="multi"  />
+    <image name="Dialog.borderCenter_1.png" type="multi"  />
+    <image name="Dialog.borderLeft_1.png" type="multi"  />
+    <image name="Dialog.borderRight_1.png" type="multi"  />
+    <image name="Dialog.borderTop_1.png" type="multi"  />
+    <image name="Dialog.borderTopL_1.png" type="multi"  />
+    <image name="Dialog.borderTopR_1.png" type="multi"  />
+    <image name="duke.png"  />
+    <image name="face.png"  />
+    <image name="gradient-overlay.png"  />
+    <image name="images22.png"  />
+    <image name="imagesB.jpg"  />
+    <image name="imagessssss.jpg"  />
+    <image name="inscription-1024x299.jpg"  />
+    <image name="like.png"  />
+    <image name="like_it_100px.png"  />
+    <image name="like_it_50px.png"  />
+    <image name="like_it_filled_100px.png"  />
+    <image name="load.png"  />
+    <image name="log.png"  />
+    <image name="logB.borderBottom_1.png" type="multi"  />
+    <image name="logB.borderBottom_2.png" type="multi"  />
+    <image name="logB.borderBottom_3.png" type="multi"  />
+    <image name="logB.borderBottom_4.png" type="multi"  />
+    <image name="logB.borderBottom_5.png" type="multi"  />
+    <image name="logB.borderBottom_6.png" type="multi"  />
+    <image name="logB.borderBottomL_1.png" type="multi"  />
+    <image name="logB.borderBottomL_2.png" type="multi"  />
+    <image name="logB.borderBottomL_3.png" type="multi"  />
+    <image name="logB.borderBottomL_4.png" type="multi"  />
+    <image name="logB.borderBottomL_5.png" type="multi"  />
+    <image name="logB.borderBottomL_6.png" type="multi"  />
+    <image name="logB.borderBottomR_1.png" type="multi"  />
+    <image name="logB.borderBottomR_2.png" type="multi"  />
+    <image name="logB.borderBottomR_3.png" type="multi"  />
+    <image name="logB.borderBottomR_4.png" type="multi"  />
+    <image name="logB.borderBottomR_5.png" type="multi"  />
+    <image name="logB.borderBottomR_6.png" type="multi"  />
+    <image name="logB.borderCenter_1.png" type="multi"  />
+    <image name="logB.borderCenter_2.png" type="multi"  />
+    <image name="logB.borderCenter_3.png" type="multi"  />
+    <image name="logB.borderCenter_4.png" type="multi"  />
+    <image name="logB.borderCenter_5.png" type="multi"  />
+    <image name="logB.borderCenter_6.png" type="multi"  />
+    <image name="logB.borderLeft_1.png" type="multi"  />
+    <image name="logB.borderLeft_2.png" type="multi"  />
+    <image name="logB.borderLeft_3.png" type="multi"  />
+    <image name="logB.borderLeft_4.png" type="multi"  />
+    <image name="logB.borderLeft_5.png" type="multi"  />
+    <image name="logB.borderLeft_6.png" type="multi"  />
+    <image name="logB.borderRight_1.png" type="multi"  />
+    <image name="logB.borderRight_2.png" type="multi"  />
+    <image name="logB.borderRight_3.png" type="multi"  />
+    <image name="logB.borderRight_4.png" type="multi"  />
+    <image name="logB.borderRight_5.png" type="multi"  />
+    <image name="logB.borderRight_6.png" type="multi"  />
+    <image name="logB.borderTop_1.png" type="multi"  />
+    <image name="logB.borderTop_2.png" type="multi"  />
+    <image name="logB.borderTop_3.png" type="multi"  />
+    <image name="logB.borderTop_4.png" type="multi"  />
+    <image name="logB.borderTop_5.png" type="multi"  />
+    <image name="logB.borderTop_6.png" type="multi"  />
+    <image name="logB.borderTopL_1.png" type="multi"  />
+    <image name="logB.borderTopL_2.png" type="multi"  />
+    <image name="logB.borderTopL_3.png" type="multi"  />
+    <image name="logB.borderTopL_4.png" type="multi"  />
+    <image name="logB.borderTopL_5.png" type="multi"  />
+    <image name="logB.borderTopL_6.png" type="multi"  />
+    <image name="logB.borderTopR_1.png" type="multi"  />
+    <image name="logB.borderTopR_2.png" type="multi"  />
+    <image name="logB.borderTopR_3.png" type="multi"  />
+    <image name="logB.borderTopR_4.png" type="multi"  />
+    <image name="logB.borderTopR_5.png" type="multi"  />
+    <image name="logB.borderTopR_6.png" type="multi"  />
+    <theme name="LOGIN">
+        <val key="@includeNativeBool" value="true" />
+        <val key="BlueLabel.bgColor" value="3300cc" />
+        <val key="BlueLabel.derive" value="Label" />
+        <val key="BlueLabel.fgColor" value="3300cc" />
+        <font key="BlueLabel.font" type="system" face="0" style="1" size="0" />
+        <val key="Button.align" value="4" />
+        <val key="Label.align" value="4" />
+        <val key="TextField.bgColor" value="ccccff" />
+        <val key="TextField.fgColor" value="0" />
+        <val key="TextField.sel#bgColor" value="0" />
+        <val key="TextField.sel#fgColor" value="0" />
+        <val key="TextField.sel#transparency" value="0" />
+        <val key="TextField.transparency" value="0" />
+        <val key="containerImage.align" value="1" />
+        <val key="containerImage.bgImage" value="LoginLogo.png" />
+        <val key="containerImage.bgType" value="1" />
+        <val key="containerImage.derive" value="Container" />
+        <val key="containerImage.padUnit" value="2,2,2,2" />
+        <val key="containerImage.padding" value="20.0,20.0,25.0,25.0" />
+        <val key="formLogin.align" value="4" />
+        <val key="formLogin.bgImage" value="logoCITE2.jpg" />
+        <val key="formLogin.bgType" value="33" />
+        <val key="formLogin.derive" value="Form" />
+        <val key="formLogin.marUnit" value="2,2,2,2" />
+        <val key="formLogin.margin" value="2.0,2.0,0.0,2.0" />
+    </theme>
+    <image name="login-background.jpg"  />
+    <image name="LoginLogo.png"  />
+    <image name="logo.png"  />
+    <image name="logoCITE2.jpg"  />
+    <image name="logoo.png"  />
+    <image name="logoo.png 1" type="multi"  />
+    <image name="logoo.png 2" type="multi"  />
+    <image name="Macaca_nigra_self-portrait_large-e1524567086123-1100x715.jpg"  />
+    <image name="maxresdefault.png"  />
+    <image name="Menu.borderBottom_2.png" type="multi"  />
+    <image name="Menu.borderBottomL_2.png" type="multi"  />
+    <image name="Menu.borderBottomR_2.png" type="multi"  />
+    <image name="Menu.borderCenter_2.png" type="multi"  />
+    <image name="Menu.borderLeft_2.png" type="multi"  />
+    <image name="Menu.borderRight_2.png" type="multi"  />
+    <image name="Menu.borderTop_2.png" type="multi"  />
+    <image name="Menu.borderTopL_2.png" type="multi"  />
+    <image name="Menu.borderTopR_2.png" type="multi"  />
+    <image name="notes.png"  />
+    <image name="OKGR.borderBottom_1.png" type="multi"  />
+    <image name="OKGR.borderBottomL_1.png" type="multi"  />
+    <image name="OKGR.borderBottomR_1.png" type="multi"  />
+    <image name="OKGR.borderCenter_1.png" type="multi"  />
+    <image name="OKGR.borderLeft_1.png" type="multi"  />
+    <image name="OKGR.borderRight_1.png" type="multi"  />
+    <image name="OKGR.borderTop_1.png" type="multi"  />
+    <image name="OKGR.borderTopL_1.png" type="multi"  />
+    <image name="OKGR.borderTopR_1.png" type="multi"  />
+    <image name="prec.png"  />
+    <image name="reclam.png"  />
+    <image name="reclamation.png"  />
+    <image name="reclamationuvci.png"  />
+    <image name="round-mask.png"  />
+    <image name="round.png" type="multi"  />
+    <image name="selected-walkthru.png"  />
+    <image name="sidemenu-top.png"  />
+    <image name="sky-319546_960_720.png"  />
+    <image name="sliderBlueCenter.png" type="multi"  />
+    <image name="sliderBlueLeft.png" type="multi"  />
+    <image name="sliderBlueRight.png" type="multi"  />
+    <image name="sliderEmpty.png" type="multi"  />
+    <image name="sliderEmptyLeft.png" type="multi"  />
+    <image name="sliderEmptyRight.png" type="multi"  />
+    <image name="suiv.png"  />
+    <image name="switch_mask.png" type="multi"  />
+    <image name="switch_off.png" type="multi"  />
+    <image name="switch_on.png" type="multi"  />
+    <image name="text-field-underline.png"  />
+    <image name="TitleArea.borderBottom_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomL_2.png" type="multi"  />
+    <image name="TitleArea.borderBottomR_2.png" type="multi"  />
+    <image name="TitleArea.borderCenter_2.png" type="multi"  />
+    <image name="TitleArea.borderLeft_2.png" type="multi"  />
+    <image name="TitleArea.borderRight_2.png" type="multi"  />
+    <image name="TitleArea.borderTop_2.png" type="multi"  />
+    <image name="TitleArea.borderTopL_2.png" type="multi"  />
+    <image name="TitleArea.borderTopR_2.png" type="multi"  />
+    <image name="t&#xe9;l&#xe9;chargement.jpg"  />
+    <image name="t&#xe9;l&#xe9;chargement.jpg 1" type="multi"  />
+    <image name="unselected-walkthru.png"  />
+    <image name="user-picture.jpg"  />
+    <image name="water-1081971_960_720.jpg"  />
+    <image name="XVM6caf5c0a-485f-11e8-9c30-99340905e6e9.jpg"  />
+</resource>

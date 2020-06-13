@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 1" cloudDestinationProperty="GUI 1" >
+  <component type="Button" name="Button" cloudDestinationProperty="Button" uiid="ButtonLogin" text="" icon="240_F_29501031_A1SyvSdiJVYy5mBXBxfdk0GHvfaH7ev8.jpg" >
+  </component>
+</component>
